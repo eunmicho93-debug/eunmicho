@@ -1,8 +1,5 @@
 ###########################################################
 ### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
 ###########################################################
 
 ############################
@@ -52,17 +49,17 @@ navbar-var-length: false
 # --- Colours / background image --- #
 ######################################
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#2C3E50"
-hover-col: "#0085A1"
-navbar-col: "#2C3E50"
+page-col: "#F0F6FF"
+text-col: "#1C3557"
+link-col: "#1C6EA4"
+hover-col: "#A8C8E8"
+navbar-col: "#1C3557"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#1a252f"
-footer-col: "#2C3E50"
-footer-text-col: "#CCCCCC"
+navbar-border-col: "#122540"
+footer-col: "#1C3557"
+footer-text-col: "#A8C8E8"
 footer-link-col: "#FFFFFF"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#A8C8E8"
 
 ################
 # --- Misc --- #
