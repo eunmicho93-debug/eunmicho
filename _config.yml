@@ -21,8 +21,8 @@ navbar-links:
 # --- Logo --- #
 ################
 
-avatar: "assets/img/img.jpg"
-round-avatar: true
+# avatar: "assets/img/img.jpg"
+# round-avatar: true
 
 #####################################
 # --- Footer social media links --- #
