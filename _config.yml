@@ -22,6 +22,7 @@ navbar-links:
 ################
 
 avatar: "assets/img/img.jpg"
+avatar-size: 100px
 round-avatar: true
 
 #####################################
